@@ -1,7 +1,5 @@
 # 🦅 Eagle Online Learning Management System
 
-![Project Banner](./banner.png) <!-- Replace with your actual image path -->
-
 ## 📌 Overview
 The **Eagle Online Learning Management System (LMS)** is a comprehensive platform designed to transform the way instructors deliver training courses and how students engage with educational content. It enables interactive teaching, robust student engagement, and efficient administrative management — all within a responsive and accessible interface.
 
